@@ -11,6 +11,7 @@ public static  void main(String args[])
 }
 //logic is in progress
 //hsdggfukhfh
+<<<<<<< Updated upstream
 
 //bug-133 fix changes
 void sub()
@@ -19,5 +20,7 @@ void sub()
 	system.out.println("sub java");
 }
 //logic is in progress
+=======
+>>>>>>> Stashed changes
 
 }
