@@ -9,7 +9,7 @@ public static vood main(string args[])
   {
 	  int a=4;
 	  int b=7;
-   //logic in progress	  
+   //logic in pending	  
   } 	
   
   //bug-142 fix change
@@ -19,6 +19,7 @@ public static vood main(string args[])
 	  int y=9;
 	  //logic in progress
   }
+
  //bug-144 fix change
   void div()
   {
@@ -26,5 +27,14 @@ public static vood main(string args[])
 	  int l=9;
 	  //logic in progress
   }
-   
+  
+  //bug-142 fix change
+  void mul()
+  {
+	  int p=5;
+	  int q=9;
+	  //logic in progress
+  }
+  
+>>>>>>> Stashed changes
 }
