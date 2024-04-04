@@ -4,4 +4,19 @@ public static vood main(string args[])
   {
     system.out.println("display method here");
   }
+  //bug-141 fix change
+  void add()
+  {
+	  int a=4;
+	  int b=7;
+   //logic in progress	  
+  } 	
+  
+  //bug-142 fix change
+  void sub()
+  {
+	  int x=5;
+	  int y=9;
+	  //logic in progress
+  }
 }
