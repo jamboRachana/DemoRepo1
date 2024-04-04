@@ -19,5 +19,12 @@ public static vood main(string args[])
 	  int y=9;
 	  //logic in progress
   }
-  
+ //bug-144 fix change
+  void div()
+  {
+	  int k=5;
+	  int l=9;
+	  //logic in progress
+  }
+   
 }
